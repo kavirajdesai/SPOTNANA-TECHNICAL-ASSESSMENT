@@ -20,7 +20,7 @@ This project analyzes a sample customer purchase and engagement dataset to ident
 ├── customer_data.csv                  # Raw dataset
 ├── clean_customer_data.csv            # Cleaned dataset
 ├── customer_cleaning.ipynb            # Python data cleaning script
-├── Spotnana Assessment Dashboard.xlsx # Excel charts and dashboard
+├── Customer_Analytics_Dashboard.xlsx  # Excel charts and dashboard
 ├── business_queries.sql               # SQL business queries
 ├── Dashboard Screenshot.jpeg          #Screenshot for Dashboard
 └── README.md                          # Project summary
