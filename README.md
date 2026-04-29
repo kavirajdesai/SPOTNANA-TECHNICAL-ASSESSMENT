@@ -1,7 +1,4 @@
-# SPOTNANA-TECHNICAL-ASSESSMENT
-
-**Submitted by:** Kaviraj Desai  
-**Role:** Data Analyst  
+# Customer_Analytics_Dashboard 
 
 ## Project Overview
 
@@ -72,4 +69,4 @@ Overall the data paints a clear picture of where the business stands. A small gr
 
 Based on the data, the company should focus on two main areas. First, since Platinum customers bring in the most revenue, the company should work on moving more customers into higher loyalty tiers by offering simple rewards like discounts or bonus points for reaching a spending target. Second, with 40% of customers being high churn risk, sending a win-back email with a small offer or discount to customers who have not purchased in a while could bring them back and increase overall sales. These two steps alone could make a noticeable difference in revenue without needing a large investment.
 
-Note: The sample dataset used in this assessment was generated with the help of Claude AI. All analysis, cleaning, visualizations, and insights were performed independently.
+Note: The sample dataset used in this project was generated with the help of Claude AI. All analysis, cleaning, visualizations, and insights were performed independently.
