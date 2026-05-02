@@ -1,4 +1,4 @@
-# Customer_Analytics_Dashboard 
+# Customer Behaviour Analysis
 
 ## Project Overview
 
